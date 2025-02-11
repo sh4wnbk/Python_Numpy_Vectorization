@@ -1,5 +1,5 @@
 
-# Project Title #Python_Numpy_Vectorization
+# Python_Numpy_Vectorization
 
 ## 1. Overview
 
