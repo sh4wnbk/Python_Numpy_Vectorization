@@ -1,10 +1,5 @@
-# Python_Numpy_Vectorization
 
-Sure! Here is a sample README for your outline:
-
----
-
-# Project Title
+# Project Title #Python_Numpy_Vectorization
 
 ## 1. Overview
 
