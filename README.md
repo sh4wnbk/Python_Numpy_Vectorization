@@ -1,5 +1,5 @@
 
-# Python_Numpy_Vectorization
+# Python Numpy Vectorization
 
 ## 1. Overview
 
